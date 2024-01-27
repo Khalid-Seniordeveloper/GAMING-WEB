@@ -1,0 +1,211 @@
+
+body {
+    margin: 0px auto;
+    background-color: black;
+    background-image: url(./background.avif)
+   
+}
+#main {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 110px;
+    margin-bottom: 60px;
+}
+#image {
+    position: relative;
+    width: 30px;
+    bottom: 90px;
+    
+}
+#indexback {
+    width: 25px;
+    position: relative;
+  left: 280px;
+  bottom: 650px ;
+ 
+  padding: 5px 20px;
+  border: 2px solid blueviolet;
+padding-left: 10px;
+
+  border-radius: 5px;
+  background-color: rgb(247, 69, 138);
+}
+
+.button {
+  cursor: pointer;
+  background-color: black;
+}
+#forwardimage {
+    width: 25px;
+    position: relative;
+  left: 390px;
+  bottom: 650px ;
+  padding-top: 5px;
+  padding-bottom: 5px;
+ padding-left: 10px;
+ border: 2px solid blueviolet;
+ padding-right: 20px;
+ background-color: rgb(247, 69, 138);
+}
+#forwardimage:hover {
+  cursor: pointer;
+}
+ #search { 
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgb(140, 138, 145);
+  padding:8px 15px ;
+  position: relative;
+  cursor: pointer;
+  left: 500px;
+  bottom: 697px;
+  
+} 
+#search:hover {
+  background-color: white;
+}
+#ximg {
+  width: 150px;
+  margin-left: 1200px;
+  position: relative;
+  bottom:  670px;
+  left: 10px;
+  
+  top: 0px auto;
+}
+#game {
+  color: rgb(69, 173, 128);
+  position: relative;
+  bottom: 810px;
+  left: 100px;
+}
+#playlist {
+  color: white;
+  position: relative;
+  bottom: 820px;
+  left: 94px;
+  font-size: 60px;  
+}
+#lorem {
+  color: white;
+  position: relative;
+  bottom: 820px;
+  left: 95px;
+}
+#more {
+  border: 0px;
+  border-radius: 20px;
+  padding: 30px 15px;
+  background-color: red;
+  color: white;
+  position: relative;
+  bottom: 520px;
+  left: 160px;
+}
+#more:hover {
+  background-color: rgb(209, 36, 96);
+  cursor: pointer;
+}
+#nav {
+   position: relative;
+   bottom: 70px;
+}
+#fortnite {
+  width: 400px;
+  position: relative;
+  bottom: 740px;
+}
+#fortnite:hover {
+  /* width: 406px; */
+  border-radius: 10px;
+  border: 6px solid greenyellow;
+  cursor: pointer;
+
+}
+#fortnitedescription:hover {
+         
+    cursor: pointer;
+}
+#fortnitedescription {
+  color: rgb(46, 179, 2);
+  position: relative;
+  bottom: 750px;
+  left: 120px;
+  
+}
+#pubg {
+  width: 250px;
+  position:  relative;
+  bottom: 1100px;
+  left: 600px;
+}
+#pubg:hover {
+  
+  border-radius: 10px;
+  border: 6px solid rgb(85, 151, 181); 
+  cursor: pointer;
+
+
+}
+#pubgdescription {
+  color: rgb(46, 179, 240);
+  position: relative;
+  left: 580px;
+  bottom: 1085px;
+}
+#freefire {
+  width: 400px;
+  position: relative;
+  bottom: 1446px; 
+  left: 960px;}
+#freefire:hover {
+  /* width: 406px; */
+  border-radius: 10px;
+  border: 6px solid rgb(235, 88, 77);
+  cursor: pointer;
+}
+#freefiredescription {
+
+  color: rgb(255, 74, 137);
+  position: relative;
+  bottom: 1430px;
+  left: 955px;
+
+}
+#freefiredescription:hover  {
+  cursor: pointer;
+}
+#pubgdescription:hover {
+  cursor: pointer;
+}
+/* s */
+#sign {
+   width: 50px;
+   position: relative;
+   left:  1450px;
+   top: 0px auto;
+   bottom: 2280px;
+   border-radius: 3px;
+  }
+#sign:hover {
+  cursor: pointer;
+  border: 3px solid rgb(235, 88, 77);
+  }
+  #container {
+    width: 200px;
+    height: 200px;
+  }
+  /* #of {
+    width: 1550px;
+    height: 500px;
+    position: relative;
+    bottom: 1300px;
+    background-color: black;
+  } */
+  /* #bech {
+    width:1000px;
+    position: relative;
+    bottom: 1200px;
+  } */

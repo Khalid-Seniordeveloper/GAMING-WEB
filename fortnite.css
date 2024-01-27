@@ -1,0 +1,159 @@
+*{
+    margin: 0px auto;
+}
+body {
+    background-color: black
+}
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+li{
+    display: inline;
+
+}
+#main {
+    width: 1550px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-family: 'Kalam', cursive;
+    
+}
+#bottom {
+    position: relative;
+    bottom: 10px;
+}
+.like {
+    font-size: 30px;
+}
+#first {
+    position: relative;
+    top: 20px;
+    left: ;
+}
+#second {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+#third {
+    position: relative;
+    top: 20px;
+    left: 60px;
+
+
+}
+#fourth {
+    position: relative;
+    top: 20px;
+    left: 120px;
+
+}
+#five {
+    position: relative;
+    top: 20px;
+    left: 180px;
+}
+#six {
+    position: relative;
+    top: 20px;
+    left: 210px;
+}
+#bottom:hover {
+    cursor: pointer;
+    color: ;
+}
+#first:hover {
+    cursor: pointer;
+    color: #949087;
+
+}
+#second:hover {
+    cursor: pointer;
+    color: #949087;
+
+}
+#third:hover {
+    cursor: pointer;
+    color: #949087;
+    
+}
+#fourth:hover {
+    cursor: pointer;
+    color: #949087;
+}
+#five:hover  {
+    cursor: pointer;
+    color: #949087;
+}
+#six:hover {
+    cursor: pointer;
+    color: #949087;
+}
+#download {
+    border-radius: 3px;
+    border: 0px;
+    background-color: yellow;
+    color: black;
+    padding: 9px 20px 9px 20px;
+    position: relative;
+    left: 1370px;
+    bottom: 25px;
+}
+#download:hover {
+    cursor: pointer;
+    background-color: #f76a78;
+}
+#search {
+    padding: 6px 12px 6px 12px;
+    border: 0px;
+    border-radius: 4px;
+    width: 150px;
+    position: relative;
+    left: 1050px;
+    bottom: 25px;
+}
+#search:hover {
+    background-color: #e6dcdd;}
+
+
+
+#head {
+    font-size: 70px;
+    position: absolute;
+    color: white;
+    left: 50px;
+    font-family: 'Kalam', cursive;
+    top: 150px;
+
+}
+#text {
+    width: 1600px;
+    /* position:relative ; */
+    left: 0px auto;
+}
+#para {
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    position: absolute;
+    color: white;
+    bottom: 400px;
+    left: 100px;
+}
+#ok {
+    position: absolute;
+    left: 20px;
+}
+#buto {
+    border: 0px;
+    border-radius: 4px;
+    padding: 30px 50px ;
+    background-color: yellow;
+    color: black;
+    position: absolute;
+    bottom: 270px;
+    font-size: 24px;
+    left: 100px;
+}
+#buto:hover {
+    background-color: #f25565;
+    cursor: pointer;
+}

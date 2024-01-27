@@ -1,0 +1,82 @@
+body{
+    margin: 0px auto;
+    background-image: url(./comp.avif );
+}
+
+#container {
+    width: 600px;
+    height: 600px;
+    background-color: lightgrey;
+    margin: 0px auto 0px auto;
+    margin-top: 50px;
+
+
+}
+/* #color {
+    color: rgb(20, 97, 120) ; */
+
+#up {
+    padding: 20px 50px 8px 8px;
+    border-radius: 8px;
+    border: 0px solid black;
+    position: relative;
+    left: 60px ;
+    top: 80px;
+    width: 400px;}
+
+#up:hover {
+    border: 2px solid black;
+   background-color:rgb(235, 247, 250) ;
+
+} 
+#pass:hover {
+    border: 2px solid black;
+   background-color:rgb(235, 247, 250) ;
+
+} 
+#signed {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 240px;
+  
+}
+#passed {
+    font-size: 20px;
+    position: relative;
+    top: 210px;
+    right: 240px;
+}
+#pass {
+    padding: 20px 50px 8px 8px;
+    border-radius: 8px;
+    border: 0px solid black;
+    position: relative;
+    left: 60px ;
+    top: 220px;
+    width: 400px;
+}
+
+#submit {
+    border-radius: 10px;
+    background-color: white;
+    color: red;
+    padding: 10px 20px;
+    position: relative;
+    top: 350px;
+    right: 400px;
+    border: 0px;
+    margin-right: 10px;
+    border: 2px solid black;
+    
+
+}
+#submit:hover {
+    cursor: pointer;
+    background-color: black;
+}
+#forgot {
+    position: relative;
+    top: 400px;
+    left: 400px;
+}
